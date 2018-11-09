@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\Fourchette\Fourchette\bin\Debug\Fourchette.exe.config
+C:\Users\Administrateur\source\repos\Fourchette\Fourchette\bin\Debug\Fourchette.exe
+C:\Users\Administrateur\source\repos\Fourchette\Fourchette\bin\Debug\Fourchette.pdb
+C:\Users\Administrateur\source\repos\Fourchette\Fourchette\obj\Debug\Fourchette.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Fourchette\Fourchette\obj\Debug\Fourchette.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Fourchette\Fourchette\obj\Debug\Fourchette.exe
+C:\Users\Administrateur\source\repos\Fourchette\Fourchette\obj\Debug\Fourchette.pdb
